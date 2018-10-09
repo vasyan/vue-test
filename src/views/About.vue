@@ -6,7 +6,7 @@
       <article class="">
         <h6 class="text-black font-bold text-xl mb-3"> This is my Vue.js demo project</h6>
         <p class="text-grey-darker">Hey. I'm Vasilii - this page creator. Nice to meet you on this page. Feel free to enjoy.</p>
-        <p class="text-grey-darker">If you wanna hire me - check out <router-link to="/contacts">contact page</router-link>!</p>
+        <p class="text-grey-darker">If you want to get in touch - check out <router-link to="/contacts">the contact page</router-link>.</p>
       </article>
     </div>
   </div>

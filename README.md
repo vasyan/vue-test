@@ -1,6 +1,6 @@
 # Vue test project
 
-🆒 [Live demo](https://vue-test-gbwyxjisui.now.sh) 🆒
+🆒 [Live demo](http://vasyan-vue-app.zapto.org) 🆒
 
 ## Project setup
 
