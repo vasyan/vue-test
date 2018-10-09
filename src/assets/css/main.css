@@ -1,0 +1,8 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+.VueCarousel-pagination {
+  top: -10px;
+  position: relative;
+}
